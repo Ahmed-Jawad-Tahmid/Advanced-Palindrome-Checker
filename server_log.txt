@@ -1,0 +1,16 @@
+2025-03-19 17:52:38,599 - Server started and listening on localhost:12345
+2025-03-19 17:53:03,560 - Client ('127.0.0.1', 59350) connected.
+2025-03-19 17:53:03,560 - Received request from ('127.0.0.1', 59350): simple|level
+2025-03-19 17:53:03,560 - Client: ('127.0.0.1', 59350), Type: simple, Input: 'level', Response: Is palindrome: True
+2025-03-19 17:53:03,560 - Sent response to ('127.0.0.1', 59350): Is palindrome: True
+2025-03-19 17:53:03,561 - Closed connection with ('127.0.0.1', 59350)
+2025-03-19 17:53:04,646 - Client ('127.0.0.1', 59352) connected.
+2025-03-19 17:53:04,660 - Received request from ('127.0.0.1', 59352): simple|level
+2025-03-19 17:53:04,660 - Client: ('127.0.0.1', 59352), Type: simple, Input: 'level', Response: Is palindrome: True
+2025-03-19 17:53:04,660 - Sent response to ('127.0.0.1', 59352): Is palindrome: True
+2025-03-19 17:53:04,660 - Closed connection with ('127.0.0.1', 59352)
+2025-03-19 17:53:15,206 - Client ('127.0.0.1', 59362) connected.
+2025-03-19 17:53:15,219 - Received request from ('127.0.0.1', 59362): simple|abbasid
+2025-03-19 17:53:15,219 - Client: ('127.0.0.1', 59362), Type: simple, Input: 'abbasid', Response: Is palindrome: False
+2025-03-19 17:53:15,219 - Sent response to ('127.0.0.1', 59362): Is palindrome: False
+2025-03-19 17:53:15,219 - Closed connection with ('127.0.0.1', 59362)
