@@ -30,10 +30,28 @@ Launches the **GUI client** for user input.
 ### 📌 Simple Check
 <br>
   
-![Simple Check Screenshot](https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Simple_palindrome_check.png?raw=true)
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Simple_palindrome_check.png?raw=true" alt="Simple Check Screenshot" width="500" height="300">
 
 ---
+<br>
+
 ### 📌 Complex Check
 <br>
 
-![Complex Check Screenshot](https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrome_check.png?raw=true)
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrome_check.png?raw=true" alt="Complex Check Screenshot" width="500" height="300">
+
+---
+<br>
+
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrom_check2.jpg?raw=true" alt="Complex Palindrome Check Score" width="500" height="300">
+
+
+---
+<br>
+
+#### Understanding the Complexity Score:
+The **Complexity Score** represents the **minimum number of swaps** required to transform the given string into a palindrome. 
+
+- **If the score is `0`**, the string is already a palindrome.
+- **The Complexity score** represents the number of swaps that are needed to rearrange the characters into a palindrome.
+- **If "Can form a palindrome" is `False`**, the string cannot be rearranged into a palindrome, and no swaps are possible.
