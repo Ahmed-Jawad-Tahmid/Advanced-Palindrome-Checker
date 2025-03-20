@@ -26,28 +26,30 @@ Launches the **GUI client** for user input.
 <br>
 
 ## Example Usage
+<br>
 
 ### 📌 Simple Check
 <br>
   
-<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Simple_palindrome_check.png?raw=true" alt="Simple Check Screenshot" width="500" height="300">
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Simple_palindrome_check.png?raw=true" alt="Simple Check Screenshot" width="500" height="500">
 
----
-<br>
+<br><br>
+
 
 ### 📌 Complex Check
 <br>
 
-<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrome_check.png?raw=true" alt="Complex Check Screenshot" width="500" height="300">
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrome_check.png?raw=true" alt="Complex Check Screenshot" width="500" height="500">
+
+<br><br>
+
+
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrom_check2.jpg?raw=true" alt="Complex Palindrome Check Score" width="500" height="500">
+
+
+<br><br>
 
 ---
-<br>
-
-<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrom_check2.jpg?raw=true" alt="Complex Palindrome Check Score" width="500" height="300">
-
-
----
-<br>
 
 #### Understanding the Complexity Score:
 The **Complexity Score** represents the **minimum number of swaps** required to transform the given string into a palindrome. 
