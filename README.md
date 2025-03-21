@@ -31,7 +31,6 @@ Launches the **GUI client** for user input.
 ### 📌 Simple Check  
 <img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Simple_palindrome_check.png?raw=true" alt="Simple Check Screenshot" width="500" height="400">
 
-<br>
 
 ### 📌 Complex Check  
 <img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrome_check.png?raw=true" alt="Complex Check Screenshot" width="500" height="400">
