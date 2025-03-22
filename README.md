@@ -29,15 +29,15 @@ Launches the **GUI client** for user input.
 ## Example Usage
 
 ### 📌 Simple Check  
-<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Simple_palindrome_check.png?raw=true" alt="Simple Check Screenshot" width="500" height="400">
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Simple_palindrome_check.png?raw=true" alt="Simple Check Screenshot" width="500">
 
 
 ### 📌 Complex Check  
-<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrome_check.png?raw=true" alt="Complex Check Screenshot" width="500" height="400">
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrome_check.png?raw=true" alt="Complex Check Screenshot" width="500">
 
 <br>
 
-<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrom_check2.jpg?raw=true" alt="Complex Palindrome Check Score" width="500" height="400">
+<img src="https://github.com/Ahmed-Jawad-Tahmid/Advanced-Palindrome-Checker/blob/main/Complex_palindrom_check2.jpg?raw=true" alt="Complex Palindrome Check Score" width="500">
 
 ---
 
